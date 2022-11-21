@@ -58,7 +58,3 @@ input {
 input:focus, textarea:focus, select:focus{
     outline: none;
 }
-.responsive {
-    width: 100%;
-    height: auto;
-  }
